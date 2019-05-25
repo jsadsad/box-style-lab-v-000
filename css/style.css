@@ -82,3 +82,20 @@ h4.amiable:hover {
     #118833
   );
 }
+
+h4.indifferent {
+  background: linear-gradient(
+    to right,
+    #770,
+    #aa0
+  );
+}
+
+h4.indifferent:hover {
+  background: linear-gradient(
+    to right,
+    #aa0,
+    #770
+  );
+}
+
