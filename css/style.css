@@ -62,6 +62,11 @@ img {
   border: 2px solid #333;
 }
 
+img:hover {
+  transition-duration: 1s;
+  transform: scale(1.05);
+}
+
 h4.amiable {
   background: linear-gradient(
     to right,
