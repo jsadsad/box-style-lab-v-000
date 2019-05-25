@@ -65,12 +65,7 @@ h4 {
 
 img {
   box-sizing: border-box;
-  border: 2px solid #333;
-}
-
-img:hover {
-  transition-duration: 1s;
-  transform: scale(1.05);
+  border: 3px solid #333;
 }
 
 h4.amiable {
